@@ -17,7 +17,5 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/about"
  - name: "Resume"
    link: "resume.pdf"
