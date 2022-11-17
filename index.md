@@ -7,7 +7,7 @@ layout: default
 Info:
 : Estado de México, México
 : [hdjesus.flores@gmail.com](mailto:hdjesus.flores@gmail.com)
-: [github](github.com/stokekld)
+: [github](https://github.com/stokekld)
 : [twitter](https://twitter.com/stokekld)
 
 ## About Me
