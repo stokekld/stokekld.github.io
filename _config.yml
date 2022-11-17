@@ -1,0 +1,23 @@
+title: Humberto de Jesus Flores
+url: ""
+baseurl: ""
+remote_theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about"
+ - name: "Resume"
+   link: "resume.pdf"
